@@ -33,4 +33,4 @@ Este es otro texto
 
 ## Sección 4
 
-Este es el numero archivo creado desde la RAMA 2
+Este es el nuevo archivo creado desde la RAMA 2
